@@ -1,6 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Eren KARABOĞA</h1>
-<h3 align="center">I'am Software Engineering Student</h3>
 
 - 🔭 I’m currently working on **Mobile Development**
 
