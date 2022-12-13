@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on **Mobile Development**
 
-- 🌱 I’m currently learning **Flutter** and I also write the backend of my applications with C# .NET Fluent With Onion Arch
+- 🌱 I have intermediate **Flutter** knowledge and I also learning **Kotlin**.
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
